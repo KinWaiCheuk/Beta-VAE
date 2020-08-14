@@ -1,0 +1,13 @@
+data/*
+!data/README
+runs/*
+!runs/Chair
+
+__pycache__
+
+dataset.ipynb
+run_B.ipynb
+run_H-Copy1.ipynb
+run_H.ipynb
+Why VAE failed.ipynb
+
