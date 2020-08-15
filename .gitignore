@@ -2,6 +2,10 @@ data/*
 !data/README
 runs/*
 !runs/Chair
+runs/*
+!runs/dSprites
+runs/*
+!runs/CelebA
 
 __pycache__
 
